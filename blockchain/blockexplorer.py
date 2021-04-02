@@ -298,7 +298,7 @@ class SimpleAddress:
         self.total_sent = a['total_sent']
         self.final_balance = a['final_balance']
         # self.change_index = a['change_index']
-        self.account_index = a['account_index']
+        # self.account_index = a['account_index']
 
 
 class MultiAddress:
