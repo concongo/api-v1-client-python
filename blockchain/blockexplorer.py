@@ -297,7 +297,7 @@ class SimpleAddress:
         self.total_received = a['total_received']
         self.total_sent = a['total_sent']
         self.final_balance = a['final_balance']
-        self.change_index = a['change_index']
+        # self.change_index = a['change_index']
         self.account_index = a['account_index']
 
 
